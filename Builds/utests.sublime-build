@@ -1,0 +1,36 @@
+{
+
+    "variants": [
+
+        {
+            "name": "All Tests",
+            "shell_cmd": "./test"
+        },
+
+        {
+            "name": "This File",
+            "shell_cmd": "./test -p $file_name"
+        },
+
+        {
+            "name": "Browser - all",
+            "shell_cmd": "./test -b"
+        },
+
+        {
+            "name": "Broswer - this",
+            "shell_cmd": "./test -p $file_name -b"
+        },
+
+        {
+            "name": "Verbose - all",
+            "shell_cmd": "./test -v"
+        },
+
+        {
+            "name": "Verbose - this",
+            "shell_cmd": "./test -p $file_name -v"
+        }
+
+    ]
+}

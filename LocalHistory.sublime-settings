@@ -1,0 +1,6 @@
+{
+	"history_retention": 5,
+	"history_on_focus_lost": true,
+	"portable": false,
+	"format_timestamp": "%m/%d/%Y__%H:%M:%S",
+}

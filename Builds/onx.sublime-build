@@ -1,0 +1,72 @@
+{
+
+	// "scope": "source",
+
+
+	"variants": [
+
+		{
+			"name": "push: platform",
+			"shell_cmd": "/home/brian/MyONX/build_scripts/onxPush.sh -pd -vt",
+			"target": "ansi_color_build",
+			"syntax": "Packages/ANSIescape/ANSI.tmLanguage"
+		},
+
+		{
+			"name": "push: (install) platform",
+			"shell_cmd": "/home/brian/MyONX/build_scripts/onxPush.sh -ipd -vt",
+			"target": "ansi_color_build",
+			"syntax": "Packages/ANSIescape/ANSI.tmLanguage"
+		},
+
+
+		{
+			"name": "push: base",
+			"shell_cmd": "/home/brian/MyONX/build_scripts/onxPush.sh -bd -vt",
+			"target": "ansi_color_build",
+			"syntax": "Packages/ANSIescape/ANSI.tmLanguage"	
+		},
+
+		{
+			"name": "push: (install) base",
+			"shell_cmd": "/home/brian/MyONX/build_scripts/onxPush.sh -ibd -vt",
+			"target": "ansi_color_build",
+			"syntax": "Packages/ANSIescape/ANSI.tmLanguage"
+		},
+
+
+		{
+			"name": "push: base + platform",
+			"shell_cmd": "/home/brian/MyONX/build_scripts/onxPush.sh -bpd -vt",
+			"target": "ansi_color_build",
+			"syntax": "Packages/ANSIescape/ANSI.tmLanguage"
+		},
+		{
+			"name": "push: (install) base + platform",
+			"shell_cmd": "/home/brian/MyONX/build_scripts/onxPush.sh -ibpd -vt",
+			"target": "ansi_color_build",
+			"syntax": "Packages/ANSIescape/ANSI.tmLanguage"
+		},
+
+
+		{
+			"name": "local: platform",
+			"shell_cmd": "/home/brian/MyONX/build_scripts/onxPush.sh -p -vt",
+			"target": "ansi_color_build",
+			"syntax": "Packages/ANSIescape/ANSI.tmLanguage"
+		},
+		{
+			"name": "local: base",
+			"shell_cmd": "/home/brian/MyONX/build_scripts/onxPush.sh -b -vt",
+			"target": "ansi_color_build",
+			"syntax": "Packages/ANSIescape/ANSI.tmLanguage"
+		},
+
+		{
+			"name": "local: base + platform",
+			"shell_cmd": "/home/brian/MyONX/build_scripts/onxPush.sh -bp -vt",
+			"target": "ansi_color_build",
+			"syntax": "Packages/ANSIescape/ANSI.tmLanguage"
+		},
+	]
+}

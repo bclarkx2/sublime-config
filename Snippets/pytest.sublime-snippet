@@ -1,0 +1,23 @@
+<snippet>
+    <content><![CDATA[
+def test_${1:condition}(self):
+    """${2:Description}"""
+
+    # Mocks
+    $3
+
+    # Args
+    $4
+
+    # Actual
+    $5
+
+    # Assertions
+    $6
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>pytest</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

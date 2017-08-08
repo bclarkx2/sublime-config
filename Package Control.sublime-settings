@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Anaconda",
+		"ANSIescape",
+		"BracketHighlighter",
+		"Case Conversion",
+		"Color Highlighter",
+		"DocBlockr",
+		"DocBlockr_Python",
+		"Local History",
+		"Package Control",
+		"PyCover",
+		"QML",
+		"Qt Completions for C++",
+		"Sublimall",
+		"SublimeLinter",
+		"SublimeLinter-json",
+		"SublimeLinter-pylint",
+		"SublimeREPL",
+		"SVN",
+		"Terminal",
+		"Text Pastry",
+		"Trailing Punctuation",
+		"VCS Gutter"
+	]
+}

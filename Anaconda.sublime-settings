@@ -1,0 +1,5 @@
+{
+    "mccabe_threshold": 5,
+    "pep8_max_line_length": 99,
+    "anaconda_gutter_marks": false
+}

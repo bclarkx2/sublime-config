@@ -1,0 +1,25 @@
+<snippet>
+    <content><![CDATA[
+$1        | $2          | $3
+========+===========+==========================================================
+________|___________|__________________________________________________________
+        |           |
+        |           |
+        |           |
+________|___________|__________________________________________________________
+        |           |
+        |           |
+        |           |
+________|___________|__________________________________________________________
+        |           |
+        |           |
+        |           |
+________|___________|__________________________________________________________
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>pytable</tabTrigger>
+    <description>Create a table in a Python script. Ideal for option documentation</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

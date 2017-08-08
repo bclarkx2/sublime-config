@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+________|___________|__________________________________________________________
+        |           |
+    $1    | $2          | $3
+        |           |
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>pytableentry</tabTrigger>
+    <description>Create an entry in a pytable</description>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

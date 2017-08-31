@@ -1,1 +1,7 @@
-.cache
+# don't need to keep SVN error log...
+SVN.errors.log
+
+# I don't want anything in the cache
+Package\ Control\.cache
+Package\ Control\.last-run
+

@@ -1,9 +1,14 @@
 <snippet>
     <content><![CDATA[
-print("$SELECTION$1: {}".format($SELECTION$1))
+\begin{figure}[${1:h}]
+    \centering
+    \includegraphics{${2:img/}}
+    \caption{${3:caption}}
+    \label{fig:${4:label}}
+\end{figure}
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>dbgvar</tabTrigger>
+    <tabTrigger>makefig</tabTrigger>
     <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <scope>source.python</scope>
+    <scope>text.tex.latex</scope>
 </snippet>

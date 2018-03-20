@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+(vl-cmdf "_.${1:command}" ${2:parameters})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>vl-cmdf</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.lsp</scope>
+</snippet>

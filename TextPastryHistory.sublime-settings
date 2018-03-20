@@ -1,0 +1,27 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "range a b"
+				},
+				"command": "text_pastry_range_parser",
+				"text": "range a b"
+			},
+			"key": "e074e4b113213df7aabcf83871a6f842",
+			"label": "range a b"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"text": "range a b"
+		},
+		"command": "text_pastry_range_parser",
+		"text": "range a b"
+	}
+}

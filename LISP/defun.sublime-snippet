@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+(defun ${1:c:}xy:${2:} (/)
+ ${3:()}
+
+ ${4:(princ)}
+ ; ${1/\*//}xy:${2/\*//}
+ )
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>defun</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.lsp</scope>
+</snippet>

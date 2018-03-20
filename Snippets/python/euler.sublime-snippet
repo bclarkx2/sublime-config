@@ -1,0 +1,37 @@
+<snippet>
+    <content><![CDATA[
+#! /usr/bin/env python3
+
+###############################################################################
+# Imports                                                                     #
+###############################################################################
+
+from common import Euler
+
+
+###############################################################################
+# Problem                                                                     #
+###############################################################################
+
+class Problem$1(Euler):
+
+    def __init__(self):
+        super().__init__(${2:arg}, ${3:val})
+
+    def solve(self):
+        ${4:pass}
+
+
+###############################################################################
+# Main                                                                        #
+###############################################################################
+
+if __name__ == '__main__':
+    Problem$1().out()
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>euler</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+(vl-position ${1:symbol} ${2:list})
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>vl-position</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.lsp</scope>
+</snippet>

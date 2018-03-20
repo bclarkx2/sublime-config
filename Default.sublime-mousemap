@@ -1,0 +1,9 @@
+[
+	{
+		"button": "button1", "count": 3,
+		"press_command": "double_bracket_expand"
+	}
+
+]
+
+

@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Ada",
 		"All Autocomplete",
 		"Anaconda",
 		"ANSIescape",

@@ -1,4 +1,7 @@
-// These settings override both User and Default settings for the LISP syntax
 {
-    "auto_match_enabled": false,
+	"auto_match_enabled": false,
+	"extensions":
+	[
+		"rkt"
+	]
 }
